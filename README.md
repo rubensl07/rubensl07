@@ -1,6 +1,10 @@
+<!-- Include local NodeJS modules relative to your root path -->
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29;Sinta-se+à+vontade+para+explorar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29;Sinta-se+à+vontade+para+explorar;Hello,+World!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubensl07&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=ffffff&text_color=FF00FF&bg_color=0d1117" alt="Rubens github stats" /> 

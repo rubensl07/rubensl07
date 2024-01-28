@@ -1,16 +1,29 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-<!--
-**rubensl07/rubensl07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29;Sinta-se+à+vontade+para+explorar)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubensl07&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=ffffff&text_color=FF00FF&bg_color=0d1117" alt="Rubens github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensl07&layout=compact&hide_border=true&title_color=8B008B&text_color=FF1493&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rubensl07&bg_color=0d1117&color=f835eb&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- <div align="center"> 
+<a href = "mailto:cmp.1a.rubensluizlobo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div> -->
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rubensl07}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+
+
+<!-- <div align="center"> 
+Preview fornecido por: https://github.com/carolbarbosa101/carolbarbosa101/blob/main/README.md?plain=1
+ </div> -->

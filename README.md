@@ -27,7 +27,22 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
+## Minhas Skills
 
-<!-- <div align="center"> 
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?&style=for-the-badge&logo=kotlin)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+![SQLITE](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite)
+![Node.JS](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<div align="center"> 
 Preview fornecido por: https://github.com/carolbarbosa101/carolbarbosa101/blob/main/README.md?plain=1
- </div> -->
+ </div>

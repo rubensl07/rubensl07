@@ -32,9 +32,9 @@
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-333333?&style=for-the-badge&logo=kotlin)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-![SQLITE](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite)
+<!--![Kotlin](https://img.shields.io/badge/Kotlin-333333?&style=for-the-badge&logo=kotlin)
+![SQLITE](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite)-->
 ![Node.JS](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)

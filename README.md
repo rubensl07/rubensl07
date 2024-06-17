@@ -43,6 +43,14 @@
 **Utilidades**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
+
+
 <div align="center"> 
 Preview fornecido por: https://github.com/carolbarbosa101/carolbarbosa101/blob/main/README.md?plain=1
  </div>

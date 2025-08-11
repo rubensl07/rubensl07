@@ -1,10 +1,11 @@
 <!-- Include local NodeJS modules relative to your root path -->
-
-
+```bash
+Hello World! 👋
+```
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29;Sinta-se+à+vontade+para+explorar;Hello,+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo+ao+meu+perfil!+:%29;Sinta-se+à+vontade+para+explorar;Olá,+Mundo!;Welcome+to+my+profile!+:%29;Feel+free+to+explore;Hello,+World!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rubensl07&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=ffffff&text_color=FF00FF&bg_color=0d1117" alt="Rubens github stats" /> 
@@ -24,8 +25,23 @@
 <br>
 </div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+
+## 🌎 About me
+
+<details>
+<summary>🇧🇷 Sobre Mim</summary>
+
+Sou apenas um texto teste, então serei apagado logo. 😭
+
+</details>
+
+<details>
+<summary>🇬🇧 About Me</summary>
+
+I'm just a test text, so I will be deleted soon. 😭
+
+</details>
 
 ## Minhas Skills
 
@@ -51,6 +67,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
 
 
-<div align="center"> 
-Preview fornecido por: https://github.com/carolbarbosa101/carolbarbosa101/blob/main/README.md?plain=1
+Preview fornecido por: [Carol Barbosa](https://github.com/carolbarbosa101/carolbarbosa101/blob/main/README.md?plain=1)
+<div align="center">
  </div>
